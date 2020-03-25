@@ -1,0 +1,3 @@
+﻿  doubleNumber.cpp
+doubleNumber.obj : error LNK2005: _main already defined in 2.3-FuntionParametersAndArguments.obj
+C:\Users\lavin\OneDrive - UWE Bristol (Students)\Coding\Learn C++\2.3-FuntionParametersAndArguments\Debug\2.3-FuntionParametersAndArguments.exe : fatal error LNK1169: one or more multiply defined symbols found
